@@ -1,0 +1,11 @@
+# Dataset
+
+This project uses the **Global Superstore Dataset**, sourced from Kaggle.
+
+The raw dataset is not included in this repository.
+
+The analysis covers 51,000+ orders and includes fields relating to orders, products, customers, sales, profit, discounts, shipping, dates, and geographic information.
+
+The dataset was cleaned and transformed using **Power Query** before being analyzed in Power BI.
+
+For reproducibility, obtain the dataset from its original source and place the relevant file in this directory before opening the Power BI report.
