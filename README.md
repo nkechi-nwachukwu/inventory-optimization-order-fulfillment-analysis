@@ -25,7 +25,7 @@ The goal is to connect **inventory and fulfillment performance with financial ou
 
 The Power BI dashboard provides an interactive view of inventory, sales, fulfillment, and profitability performance.
 
-![Dashboard Overview](images/dashboard-overview.png)
+<img width="1800" height="1200" alt="Inventory   Order Perf Mockup" src="https://github.com/user-attachments/assets/2ea4417e-0cdf-42f5-a736-a65f01a82460" />
 
 --- 
 
