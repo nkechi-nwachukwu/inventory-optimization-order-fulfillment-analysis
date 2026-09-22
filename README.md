@@ -204,6 +204,7 @@ The analysis identified **Standard Class** as a major area of concern within the
 This indicates an opportunity to monitor standard shipping operations more closely and investigate the operational drivers contributing to delays.
 
 <img width="341" height="71" alt="late delivery kpi" src="https://github.com/user-attachments/assets/3dcdc17c-825d-4115-938d-6f8ec967783e" />
+
 ### Areas Analyzed
 
 * Late delivery rate
@@ -222,6 +223,7 @@ The dataset generated approximately **$12.64M in sales**, but the overall profit
 This highlights the importance of analyzing profitability alongside revenue.
 
 <img width="354" height="73" alt="total profit   profit margin" src="https://github.com/user-attachments/assets/9b275fb7-647e-4e8d-b2ec-ffb63945af7e" />
+
 ### Analysis included:
 
 * Total sales
@@ -240,6 +242,7 @@ This highlights the importance of analyzing profitability alongside revenue.
 Category-level analysis was used to identify which product categories contributed the most revenue.
 
 <img width="378" height="175" alt="category performance" src="https://github.com/user-attachments/assets/5b2cd460-4eb5-4d4f-9e2e-dab786eddaff" />
+
 The analysis compared categories based on:
 
 * Sales
@@ -262,6 +265,7 @@ Product-level analysis was performed to identify:
 * Loss-making products
 
 <img width="297" height="292" alt="loss making products" src="https://github.com/user-attachments/assets/8b8212bf-65e8-4096-86f4-7d2e70bd7cae" />
+
 Loss-making products represent an important area for further investigation because continued sales do not necessarily translate into profitable growth.
 
 Potential business actions include reviewing:
@@ -310,6 +314,7 @@ Shipping efficiency was evaluated across different operational dimensions to ide
 Sales performance was analyzed over time to identify changes in business performance and potential seasonal patterns.
 
 <img width="421" height="291" alt="sales trend" src="https://github.com/user-attachments/assets/9dd7f77f-10c4-4dd4-9677-77a5b6bb8c28" />
+
 The time-series analysis helps evaluate:
 
 * Yearly sales performance
