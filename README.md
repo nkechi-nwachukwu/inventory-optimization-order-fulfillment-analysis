@@ -442,35 +442,35 @@ Recommended KPIs include:
 
 ## Dashboard Overview
 
-![Dashboard Overview](images/dashboard-overview.png)
+<img width="993" height="574" alt="Executive Overview of Inv  Perf  Dashboard" src="https://github.com/user-attachments/assets/ce5e939a-b026-48d2-b109-bedd71a13818" />
 
 ## Category Performance
 
-![Categories by Sales](images/categories-by-sales.png)
+<img width="378" height="175" alt="category performance" src="https://github.com/user-attachments/assets/dcbaed30-da60-4482-8709-884cda3be95e" />
 
 ## Sales Trend
 
-![Sales Trend](images/sales-trend.png)
+<img width="421" height="291" alt="sales trend" src="https://github.com/user-attachments/assets/f8f8934b-8910-4890-ba0f-ebb77cc37265" />
 
 ## Loss-Making Products
 
-![Loss-Making Products](images/loss-making-products.png)
+<img width="297" height="292" alt="loss making products" src="https://github.com/user-attachments/assets/98915e83-c178-49d9-8902-e5c4a22c6fc9" />
 
 ## Late Delivery KPI
 
-![Late Delivery Rate](images/late-delivery-rate.png)
+<img width="341" height="71" alt="late delivery kpi" src="https://github.com/user-attachments/assets/5056b4a4-94c2-42d4-825d-3af75d4ddab1" />
 
 ## Top Category KPI
 
-![Top Category](images/top-category.png)
+<img width="187" height="77" alt="top category kpi" src="https://github.com/user-attachments/assets/b7fb97d1-a9b3-4469-965c-678a38173ad4" />
 
 ## Total Profit KPI
 
-![Total Profit](images/total-profit.png)
+<img width="354" height="73" alt="total profit   profit margin" src="https://github.com/user-attachments/assets/216124df-3c9c-4cfa-99a2-46884b61c49c" />
 
 ## Profit Margin KPI
 
-![Profit Margin](images/profit-margin.png)
+<img width="170" height="65" alt="profit margin" src="https://github.com/user-attachments/assets/2dc8b250-a723-4361-acf4-4e619f91e51d" />
 
 ---
 
@@ -533,20 +533,12 @@ The central business opportunity is to:
 
 ---
 
-# 🔗 Dashboard
-
-**View the interactive Power BI dashboard:**
-
-<img width="1800" height="1200" alt="Inventory   Order Perf Mockup" src="https://github.com/user-attachments/assets/376489cc-7df2-49a9-8fbd-11890faafadb" />
-
----
-
 ## 👩🏽‍💻 Author
 
-**Dorothy Nwachukwu**
+**Nkechi Nwachukwu Business Analyst | Data & Operations Analytics**
 
-Business Analyst | Data & Operations Analytics
+Portfolio: https://dorothy-data-portfolio.lovable.app
 
-Skills: **Power BI • SQL • Excel • Tableau • Power Query • DAX • ERP & Operations Analytics**
+GitHub: https://github.com/nkechi-nwachukwu
 
-Portfolio: **Dorothy's Data Desk**
+LinkedIn: https://linkedin.com/in/nkechi-nwachukwu-82ba911bb
